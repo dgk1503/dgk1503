@@ -18,7 +18,7 @@
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
-  <!-- Add your other social links here, like LinkedIn, Twitter, etc. -->
+  
 </div>
 
 ---
@@ -42,7 +42,7 @@
 ---
 
 ### 🔥 My GitHub Stats:
-<!-- You can uncomment the lines below and replace 'dgk1503' with your username to show your stats -->
+
  
 
   <br/>
