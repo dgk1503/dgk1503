@@ -5,17 +5,18 @@
 
 ---
 
-### 👨‍💻 About Me:
+### About Me:
 -  I’m currently working on building eye catching web apps
 -  How to reach me: **dgkbusiness1503@gmail.com**
 
 ---
 
-### 🤝 :
+### Meet me on :
 <div align="left">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/DGK1503/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
+  
   
 </div>
 
