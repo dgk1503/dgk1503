@@ -16,6 +16,9 @@
   <a href="https://leetcode.com/u/DGK1503/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
+  <a href="https://www.linkedin.com/in/gnana-karthikeya-490450361/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   
   
 </div>
