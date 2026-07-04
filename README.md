@@ -34,11 +34,7 @@
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dgk1503&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
+
 
 
 
