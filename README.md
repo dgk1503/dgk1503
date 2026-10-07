@@ -5,9 +5,6 @@
 
 ---
 
-### About Me:
--  I’m currently working on building eye catching web apps
--  How to reach me: **dgkbusiness1503@gmail.com**
 
 ---
 
